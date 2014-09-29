@@ -74,10 +74,10 @@
     <icon src="res/icons/android/res/drawable-mdpi/Icon.png"   gap:platform="android"    gap:qualifier="mdpi" />
     <icon src="res/icons/android/res/drawable-hdpi/Icon.png"   gap:platform="android"    gap:qualifier="hdpi" />
     <icon src="res/icons/android/res/drawable-xhdpi/Icon.png"  gap:platform="android"    gap:qualifier="xhdpi" />
-    <icon src="res/icons/ios/icon/Icon-Small@2x.png"            gap:platform="ios"        width="57" height="57" />
-    <icon src="res/icons/ios/icon/Icon-72.png"            gap:platform="ios"        width="72" height="72" />
-    <icon src="res/icons/ios/icon/Icon@2x.png"         gap:platform="ios"        width="114" height="114" />
-    <icon src="res/icons/ios/icon/Icon-152.png"         gap:platform="ios"        width="144" height="144" />
+    <icon src="res/icons/ios/Icon-Small@2x.png"            gap:platform="ios"        width="57" height="57" />
+    <icon src="res/icons/ios/Icon-72.png"            gap:platform="ios"        width="72" height="72" />
+    <icon src="res/icons/ios/Icon@2x.png"         gap:platform="ios"        width="114" height="114" />
+    <icon src="res/icons/ios/Icon-152.png"         gap:platform="ios"        width="144" height="144" />
     <icon src="res/icons/winphone/appicon.png"  gap:platform="winphone" />
     <icon src="res/icon/windows-phone/marketplace-icon-large.png" gap:platform="winphone"   gap:role="background" />
 
