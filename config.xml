@@ -82,16 +82,16 @@
     <icon src="res/icon/windows-phone/marketplace-icon-large.png" gap:platform="winphone"   gap:role="background" />
 
     <!-- Define app splash screen for each platform. -->
-    <gap:splash src="res/screen/android/drawable-ldpi/splash.png"       gap:platform="android" gap:qualifier="port-ldpi" />
-    <gap:splash src="res/screen/android/drawable-mdpi/splash.png"       gap:platform="android" gap:qualifier="port-mdpi" />
-    <gap:splash src="res/screen/android/drawable-hdpi/splash.png"       gap:platform="android" gap:qualifier="port-hdpi" />
-    <gap:splash src="res/screen/android/drawable-xhdpi/splash.png"      gap:platform="android" gap:qualifier="port-xhdpi" />
-    <gap:splash src="res/screen/ios/Default.png"			         gap:platform="ios"     width="320" height="480" />
-    <gap:splash src="res/screen/ios/Default@2x.png"     			 gap:platform="ios"     width="640" height="960" />
-    <gap:splash src="res/screen/ios/Default-568h@2x.png" gap:platform="ios"     width="640" height="1136" />
-    <gap:splash src="res/screen/ios/Default-Portrait.png"           gap:platform="ios"     width="768" height="1024" />
-    <gap:splash src="res/screen/ios/Default-Landscape.png"          gap:platform="ios"     width="1024" height="768" />
-    <gap:splash src="res/screen/windows-phone/screen-portrait.png"      gap:platform="winphone" />
+    <gap:splash src="res/screens/android/drawable-ldpi/splash.png"       gap:platform="android" gap:qualifier="port-ldpi" />
+    <gap:splash src="res/screens/android/drawable-mdpi/splash.png"       gap:platform="android" gap:qualifier="port-mdpi" />
+    <gap:splash src="res/screens/android/drawable-hdpi/splash.png"       gap:platform="android" gap:qualifier="port-hdpi" />
+    <gap:splash src="res/screens/android/drawable-xhdpi/splash.png"      gap:platform="android" gap:qualifier="port-xhdpi" />
+    <gap:splash src="res/screens/ios/Default.png"			         gap:platform="ios"     width="320" height="480" />
+    <gap:splash src="res/screens/ios/Default@2x.png"     			 gap:platform="ios"     width="640" height="960" />
+    <gap:splash src="res/screens/ios/Default-568h@2x.png" gap:platform="ios"     width="640" height="1136" />
+    <gap:splash src="res/screens/ios/Default-Portrait.png"           gap:platform="ios"     width="768" height="1024" />
+    <gap:splash src="res/screens/ios/Default-Landscape.png"          gap:platform="ios"     width="1024" height="768" />
+    <gap:splash src="res/screens/windows-phone/screen-portrait.png"      gap:platform="winphone" />
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
     <string>100</string>
